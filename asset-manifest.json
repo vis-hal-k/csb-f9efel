@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://vis-hal-k.github.io/csb-f9efel/static/js/main.e0cc9441.chunk.js",
+    "main.js.map": "https://vis-hal-k.github.io/csb-f9efel/static/js/main.e0cc9441.chunk.js.map",
+    "runtime-main.js": "https://vis-hal-k.github.io/csb-f9efel/static/js/runtime-main.67acf87c.js",
+    "runtime-main.js.map": "https://vis-hal-k.github.io/csb-f9efel/static/js/runtime-main.67acf87c.js.map",
+    "static/js/2.6e1939c1.chunk.js": "https://vis-hal-k.github.io/csb-f9efel/static/js/2.6e1939c1.chunk.js",
+    "static/js/2.6e1939c1.chunk.js.map": "https://vis-hal-k.github.io/csb-f9efel/static/js/2.6e1939c1.chunk.js.map",
+    "index.html": "https://vis-hal-k.github.io/csb-f9efel/index.html",
+    "precache-manifest.df292be9ae7c7dc0456daa3288f4c595.js": "https://vis-hal-k.github.io/csb-f9efel/precache-manifest.df292be9ae7c7dc0456daa3288f4c595.js",
+    "service-worker.js": "https://vis-hal-k.github.io/csb-f9efel/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67acf87c.js",
+    "static/js/2.6e1939c1.chunk.js",
+    "static/js/main.e0cc9441.chunk.js"
+  ]
+}
